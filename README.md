@@ -1,3 +1,7 @@
+# **About**
+
+Jakey has a "partner bot," which is another bot, but includes most of Jakey's features, but has more.
+
 # Jakey
 Discord Bot that can moderate, play games<sup>1</sup>, and more
 
