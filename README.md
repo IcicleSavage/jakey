@@ -14,6 +14,7 @@ A Discord bot that shares most of Jakey's features, and more. **MinerBot is cent
 
 ### Invite MinerBot (Jakey's partner)
 [Click Here](https://discord.com/oauth2/authorize?client_id=767055142544605194&scope=bot&permissions=1543892056) to invite him to one of your<sup>2</sup> servers!
+
 <sup>2</sup> - You must own the server, or have the `Manage Server` permission in the desired server you want to add him to.
 
 
