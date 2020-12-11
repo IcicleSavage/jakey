@@ -1,6 +1,6 @@
 # **About**
 
-Jakey has a "partner bot," which is another bot, that can perform most of Jakey's features, *and more*. It's name is [MinerBot](github.com/IcicleSavage/jakey#minerbot)
+Jakey has a "partner bot," which is another bot, that can perform most of Jakey's features, *and more*. It's name is [MinerBot](https://github.com/IcicleSavage/jakey/blob/main/README.md#minerbot)
 
 ## Jakey
 Discord Bot that can moderate, play games<sup>1</sup>, and more
