@@ -1,16 +1,20 @@
 # **About**
 
-Jakey has a "partner bot," which is another bot, but includes most of Jakey's features, but has more.
+Jakey has a "partner bot," which is another bot, that can perform most of Jakey's features, *and more*. It's name is [MinerBot]()
 
-# Jakey
+## Jakey
 Discord Bot that can moderate, play games<sup>1</sup>, and more
 
-<sup>1</sup> - the games will played through MinerBot, Jakey's partner bot.
-# Invite Jakey
-[Click Here](https://discord.com/api/oauth2/authorize?client_id=744692475788001342&permissions=2146958835&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D744)
+<sup>1</sup> - Games will be played through MinerBot, which you will learn more about in the following sections.
+### Invite Jakey
+[Click Here](https://discord.com/oauth2/authorize/?permissions=1446378576&scope=bot&client_id=744692475788001342)
+
+## MinerBot
+A Discord bot that shares most of Jakey's features, and more. **MinerBot is centered around having fun, within Discord.** Whether you are waiting for a friend to ready up, in a different game, or you just want to pass the time, MinerBot has you covered!
 
 ### Invite MinerBot (Jakey's partner)
-[Click Here](https://discord.com/oauth2/authorize?client_id=767055142544605194&scope=bot&permissions=1543892056)
+[Click Here](https://discord.com/oauth2/authorize?client_id=767055142544605194&scope=bot&permissions=1543892056) to invite him to one of your<sup>2</sup> servers!
+<sup>2</sup> - You must own the server, or have the `Manage Server` permission in the desired server you want to add him to.
 
 
 
