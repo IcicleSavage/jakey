@@ -19,6 +19,12 @@ A Discord bot that shares most of Jakey's features, and more. **MinerBot is cent
 
 
 
-#### **Created By**
+
+
+
+
+
+
+## **Created By**
 Discord Username: **IcicleSavage#0381**
 Universal Name: **IcicleSavage**
