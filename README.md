@@ -10,7 +10,7 @@ Discord Bot that can moderate, play games<sup>1</sup>, and more
 [Click Here](https://discord.com/oauth2/authorize/?permissions=1446378576&scope=bot&client_id=744692475788001342)
 
 ## MinerBot
-A Discord bot that shares most of Jakey's features, and more. **MinerBot is centered around having fun, within Discord.** Whether you are waiting for a friend to ready up, in a different game, or you just want to pass the time, MinerBot has you covered!
+A Discord bot that shares most of Jakey's features, and more. **MinerBot is centered around having fun, within Discord.** Whether you're waiting for a friend to ready up, or simply want to pass time, MinerBot has you covered!
 
 ### Invite MinerBot (Jakey's partner)
 [Click Here](https://discord.com/oauth2/authorize?client_id=767055142544605194&scope=bot&permissions=1543892056) to invite him to one of your<sup>2</sup> servers!
