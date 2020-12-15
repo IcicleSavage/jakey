@@ -3,9 +3,11 @@
 A Discord bot that shares most of Jakey's features, and more. **MinerBot is centered around having fun, within Discord.** Whether you're waiting for a friend to ready up, or simply want to pass time, MinerBot has you covered! [Invite MinerBot here.](#minerbot) is another bot, who will replace Jakey, in the future.
 
 ## Jakey
-Discord Bot that can moderate, play games<sup>1</sup>, and more
+Jakey is the original version of this bot. Jakey may be unstable, additionally. 
 
-<sup>1</sup> - Games will be played through MinerBot, which you will learn more about in the following sections.
+[Features: Discord Bot that can moderate, play games][1]<sup>1</sup>, and more
+
+<sup>1</sup> - Playing games is a feature that is through MinerBot, only.
 
 #### Invite Jakey
 
